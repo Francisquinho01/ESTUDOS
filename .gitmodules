@@ -1,0 +1,155 @@
+[submodule "EBAC/Frontend/01-html-primeiro-exercicio"]
+	path = EBAC/Frontend/01-html-primeiro-exercicio
+	url = https://github.com/Francisquinho01/Ebac-Frontend-Html-Ex.git
+	branch = ebachtmlex
+[submodule "EBAC/Frontend/02-css-exercicio"]
+	path = EBAC/Frontend/02-css-exercicio
+	url = https://github.com/Francisquinho01/Ebac_ex_css.git
+	branch = exercicio_css
+[submodule "EBAC/Frontend/03-css-corrigido"]
+	path = EBAC/Frontend/03-css-corrigido
+	url = https://github.com/Francisquinho01/ebacfirsthtmlcorrigido.git
+	branch = ex_css
+[submodule "EBAC/Frontend/04-primeiro-site"]
+	path = EBAC/Frontend/04-primeiro-site
+	url = https://github.com/Francisquinho01/ebacfirstsite.git
+	branch = firstsit
+[submodule "EBAC/Frontend/05-site-base"]
+	path = EBAC/Frontend/05-site-base
+	url = https://github.com/Francisquinho01/EbacPrimeiroSite.git
+	branch = Ebacbasesite
+[submodule "EBAC/Frontend/06-games-shop"]
+	path = EBAC/Frontend/06-games-shop
+	url = https://github.com/Francisquinho01/Ebac-Gameshpsite.git
+	branch = Gameshop
+[submodule "EBAC/Frontend/07-dom-javascript"]
+	path = EBAC/Frontend/07-dom-javascript
+	url = https://github.com/Francisquinho01/EbacDomjsex.git
+	branch = exercicio_html_js
+[submodule "EBAC/Frontend/08-site-contato"]
+	path = EBAC/Frontend/08-site-contato
+	url = https://github.com/Francisquinho01/EbacSitecontato.git
+	branch = contato
+[submodule "EBAC/Frontend/09-galeria"]
+	path = EBAC/Frontend/09-galeria
+	url = https://github.com/Francisquinho01/Galeriaebac.git
+	branch = galeriaconta
+[submodule "EBAC/Frontend/10-lista-de-tarefas-jquery"]
+	path = EBAC/Frontend/10-lista-de-tarefas-jquery
+	url = https://github.com/Francisquinho01/Listadetarefaebac.git
+[submodule "EBAC/Frontend/11-hamburgueria"]
+	path = EBAC/Frontend/11-hamburgueria
+	url = https://github.com/Francisquinho01/Hamburgariaebac.git
+	branch = siricascudo
+[submodule "EBAC/Frontend/12-responsivo"]
+	path = EBAC/Frontend/12-responsivo
+	url = https://github.com/Francisquinho01/Exresponsivoebac.git
+	branch = responsivoex
+[submodule "EBAC/Frontend/13-bootstrap"]
+	path = EBAC/Frontend/13-bootstrap
+	url = https://github.com/Francisquinho01/Boostrap.git
+	branch = exercicio_bootstrap
+[submodule "EBAC/Frontend/14-loja"]
+	path = EBAC/Frontend/14-loja
+	url = https://github.com/Francisquinho01/Ebacloja1.git
+	branch = lojaebac
+[submodule "EBAC/Frontend/15-plugins-jquery"]
+	path = EBAC/Frontend/15-plugins-jquery
+	url = https://github.com/Francisquinho01/Ebacorre-oex.git
+	branch = plugins-jquery-exercicio
+[submodule "EBAC/Frontend/16-site-de-filmes-bootstrap"]
+	path = EBAC/Frontend/16-site-de-filmes-bootstrap
+	url = https://github.com/Francisquinho01/Site-De-Filmes.git
+	branch = exboostrap
+[submodule "EBAC/Frontend/17-landing-page"]
+	path = EBAC/Frontend/17-landing-page
+	url = https://github.com/Francisquinho01/Ebaclanding.git
+	branch = att
+[submodule "EBAC/Frontend/18-sass"]
+	path = EBAC/Frontend/18-sass
+	url = https://github.com/Francisquinho01/Sass.git
+	branch = exercicio_sass
+[submodule "EBAC/Frontend/19-boas-praticas-css"]
+	path = EBAC/Frontend/19-boas-praticas-css
+	url = https://github.com/Francisquinho01/BoaspraticasBem.git
+	branch = boas_praticas_css
+[submodule "EBAC/Frontend/20-gulp"]
+	path = EBAC/Frontend/20-gulp
+	url = https://github.com/Francisquinho01/Gulpex.git
+	branch = exercicio_gulp
+[submodule "EBAC/Frontend/21-landing-filme-gulp"]
+	path = EBAC/Frontend/21-landing-filme-gulp
+	url = https://github.com/Francisquinho01/LandTempoComvc.git
+	branch = landfilme
+[submodule "EBAC/Frontend/22-parcel"]
+	path = EBAC/Frontend/22-parcel
+	url = https://github.com/Francisquinho01/Parcel.git
+	branch = landniver
+[submodule "EBAC/Frontend/23-design-ebac-banking"]
+	path = EBAC/Frontend/23-design-ebac-banking
+	url = https://github.com/Francisquinho01/Sever1.git
+	branch = main
+[submodule "EBAC/Frontend/24-ajax"]
+	path = EBAC/Frontend/24-ajax
+	url = https://github.com/Francisquinho01/Ajax.git
+	branch = exercicio_ajax
+[submodule "EBAC/Frontend/25-vue-calculadora"]
+	path = EBAC/Frontend/25-vue-calculadora
+	url = https://github.com/Francisquinho01/Vue.git
+	branch = exvue
+[submodule "EBAC/Frontend/26-react-imc"]
+	path = EBAC/Frontend/26-react-imc
+	url = https://github.com/Francisquinho01/REACT.git
+	branch = Reactex
+[submodule "EBAC/Frontend/27-css-in-js"]
+	path = EBAC/Frontend/27-css-in-js
+	url = https://github.com/Francisquinho01/base_exercicio_css_in_js.git
+	branch = main
+[submodule "EBAC/Frontend/28-emergency-health"]
+	path = EBAC/Frontend/28-emergency-health
+	url = https://github.com/Francisquinho01/EmergencyHealth.git
+	branch = EmergencyHealth
+[submodule "EBAC/Frontend/29-redux-guide"]
+	path = EBAC/Frontend/29-redux-guide
+	url = https://github.com/Francisquinho01/redux-guide.git
+	branch = main
+[submodule "EBAC/Frontend/30-ebac-sports-redux"]
+	path = EBAC/Frontend/30-ebac-sports-redux
+	url = https://github.com/Francisquinho01/ebac_sports.git
+	branch = main
+[submodule "EBAC/Frontend/31-ebac-games-redux"]
+	path = EBAC/Frontend/31-ebac-games-redux
+	url = https://github.com/Francisquinho01/ebac_games_redux.git
+	branch = main
+[submodule "EBAC/Frontend/32-projeto-contatos-redux-ts"]
+	path = EBAC/Frontend/32-projeto-contatos-redux-ts
+	url = https://github.com/Francisquinho01/Projeto-Contatos.git
+	branch = main
+[submodule "EBAC/Frontend/33-testes-react-testing-library"]
+	path = EBAC/Frontend/33-testes-react-testing-library
+	url = https://github.com/Francisquinho01/ebac_exercicio_rtl.git
+	branch = main
+[submodule "EBAC/Outros/git-primeiro-repositorio"]
+	path = EBAC/Outros/git-primeiro-repositorio
+	url = https://github.com/Francisquinho01/curso_ebac_frontend.git
+	branch = exercicio_git
+[submodule "EBAC/Outros/javascript-orientado-a-objetos"]
+	path = EBAC/Outros/javascript-orientado-a-objetos
+	url = https://github.com/Francisquinho01/js.git
+	branch = oo_js
+[submodule "EBAC/Outros/babel-es6"]
+	path = EBAC/Outros/babel-es6
+	url = https://github.com/Francisquinho01/Babel.git
+	branch = exercicio_es6
+[submodule "EBAC/Outros/typescript"]
+	path = EBAC/Outros/typescript
+	url = https://github.com/Francisquinho01/ExericioTypeScript.git
+	branch = exercicio_ts
+[submodule "EBAC/Outros/cypress-testes-e2e"]
+	path = EBAC/Outros/cypress-testes-e2e
+	url = https://github.com/Francisquinho01/cypress.git
+	branch = main
+[submodule "EBAC/Outros/referencia-fork-react"]
+	path = EBAC/Outros/referencia-fork-react
+	url = https://github.com/Francisquinho01/React1.git
+	branch = main
